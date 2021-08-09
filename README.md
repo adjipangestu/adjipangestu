@@ -16,10 +16,6 @@
 
 <br />
 
----
-
-<img align="left" alt="Adji Pangestu Github Stats" src="https://github-readme-stats.vercel.app/api?username=adjipangestu&show_icons=true&hide_border=true" />
-
 [website]: https://www.kumis.id/
 [twitter]: https://twitter.com/adjipangstu
 [youtube]: https://www.youtube.com/channel/UCMhaUJnTVEfKuLikbsjdDuw
