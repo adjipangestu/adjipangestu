@@ -4,7 +4,6 @@
 - 🔭  I’m currently working on a [Detikcom][work]!
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
-- 🥅  2020 Goals: Build PC.
 
 ### Connect with me:
 
