@@ -1,7 +1,7 @@
 ### Hi there, I'm Adji Pangestu 👋
 
 ## I'm a Developer and Software Engineer!
-- 🔭  I’m currently working on a [Detikcom][work]!
+- 🔭  I’m currently working on a [Ministry of Health of the Republic of Indonesia][work]!
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other content creators
 
