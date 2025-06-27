@@ -15,4 +15,3 @@
 
 [instagram]: https://instagram.com/adjipangstu
 [linkedin]: https://www.linkedin.com/in/adjipangestu/
-[webiste]: https://www.pjnhk.go.id/
