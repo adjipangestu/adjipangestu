@@ -12,5 +12,5 @@
 
 <br />
 
-[instagram]: https://instagram.com/adjipangstu
+[instagram]: https://instagram.com/djiroutine
 [linkedin]: https://www.linkedin.com/in/adjipangestu/
